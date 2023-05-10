@@ -1,2 +1,2 @@
 #files create by emacs ~$filename
-find . -name "*~" -exec rm -rf {} \;
+# find . -name "*~" -exec rm -rf {} \;
